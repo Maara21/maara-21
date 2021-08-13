@@ -22,4 +22,4 @@ Sample Output:
 
 Name: maara                                                                                                  
 Age: 21                                                                                                      
-Address:Bangalore Karnataka India 
+Address:Bangalore, Karnataka, India 
